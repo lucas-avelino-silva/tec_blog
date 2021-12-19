@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.principal{
+    width: 920px;
+    /*border: 1px solid;*/
+    /*padding-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 10px;*/
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.cabecalho{
+    background-color: orange;
+    padding: 20px;
+    text-align: center;
+}
+
+.menu{
+    padding-top: 18px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.nome_marca{
+    
+    font-family: Marker Felt, fantasy;
+    font-size: 30px;
+    
+}
+
+
+.recentes{
+    float: right;
+    /*border: 1px solid;*/
+    width: 300px;
+    position: absolute;
+    left: 950px;
+    top: 200px;
+}
+
+.blog{
+    color: white;
+}
+
+.titulo{
+    color: orange;
+}
+
+.titulo_recente{
+    background-color: #BDBDBD;
+}
+
+.link{
+    color: orange;
+}
+
+.munuh{
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+    
+}
+
+.munuh:hover{
+    background-color:peru;
+}
+
+.rodape{
+    
+    background-color: #D8D8D8;
+    text-align: center;
+    padding: 15px;
+}
+
+.postagem_1 p{
+    width: 650px;
+    font-size: 20px;
+    margin-top: 5px;
+    
+    
+}
+
+.postagem_1{
+    margin-bottom: 40px;
+}
+
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.categorias{
+    margin-top: 20px;
+}
+
+.postagem_1>.data{
+    font-size: 17px;
+    margin-top: 0px;
+}
